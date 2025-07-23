@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[41,)"
+license="MIT"
+
+[[mods]]
+modId="developerinfo"
+version="${file.jarVersion}"
+displayName="Developer Info Mod"
+description='''  
+简单替换退出按钮为开发者展示界面，方便整合包作者注明信息。  
+'''
